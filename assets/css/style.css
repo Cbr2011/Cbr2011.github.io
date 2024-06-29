@@ -1,5 +1,25 @@
-h1, h2, h3, p {
+h1 {
     text-align: center;
+    color: white;
+    font-family: Arial;
+    font-weight: normal;
+}
+
+h2 {
+    text-align: center;
+    color: white;
+    font-family: sans-serif;
+    font-weight: normal;
+}
+h3 {
+    text-align: center;
+    color: white;
+    font-family: sans-serif;
+    font-weight: normal;
+}
+p {
+    text-align: center;
+    color: white;
     font-family: sans-serif;
     font-weight: normal;
 }
